@@ -1,0 +1,10 @@
+<suite name="Automation_Project" verbose="2">
+    <listeners>
+        <listener class-name="com.utils.TestListener" />
+    </listeners>
+    <test name="Add To Cart Feature Tests">
+        <classes>
+            <class name="com.tests.AmazonE@ETest"/>
+        </classes>
+    </test>
+</suite>
