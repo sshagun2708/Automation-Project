@@ -62,15 +62,3 @@ pip install -r requirements.txt
 playwright install
 
 ```
-
-
-
----
-
-## 💡 Usage
-
-Configure your test steps, target URLs, and targets inside your input files or execution scripts, then run your automation workflows directly from your local terminal or IDE.
-
-```
-
-```
