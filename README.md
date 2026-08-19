@@ -1,6 +1,3 @@
-Here is a comprehensive and professional `README.md` file tailored specifically for your hybrid **Automation_Project**. You can copy this text, paste it into a file named `README.md` in your project's root folder, and push it to GitHub.
-
-```markdown
 # 🤖 Automation_Project: Hybrid Test Automation Framework
 
 **Automation_Project** is an enterprise-grade hybrid UI test automation framework designed by combining the legacy stability and broad cross-browser compatibility of **Selenium WebDriver** with the high-speed execution, modern auto-waiting capabilities, and shadow DOM handling of **Microsoft Playwright**.
